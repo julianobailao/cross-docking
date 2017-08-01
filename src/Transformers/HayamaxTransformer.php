@@ -10,7 +10,11 @@ class HayamaxTransformer extends Transformer
     protected function transform(array $data)
     {
         return array_map(function ($item) {
-            return [
+
+            $images = $item['images']['image'] ?? [];
+            $images = is_array($images) ? $images : [$images];
+
+            return @[
                 'provider' => [
                     'name' => 'HAYAMAX',
                     'title' => 'Hayamax',
@@ -22,7 +26,7 @@ class HayamaxTransformer extends Transformer
                 'model' => $item['model'],
                 'title' => Adapter::regularizeCharCase($item['prod_name']),
                 'category' => explode('##', $item['seg_name']),
-                'images' => $item['images']['image'],
+                'images' => $images,
                 'texts' => $item['information'],
                 'price' => $item['price'],
                 'quantity' => $item['stock'],

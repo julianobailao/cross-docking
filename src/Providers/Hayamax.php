@@ -13,7 +13,7 @@ class Hayamax extends Provider
 
         $args = is_array($args) ? $args : func_get_args();
         $host = 'http://webmax.hayamax.com.br/crossdock/servlet/';
-        $file = 'CrossDockingServlet.class.php?action=crossDockingPrice&customerId=%s&compress=1&canal=CD';
+        $file = 'CrossDockingServlet.class.php?action=crossDockingPrice&customerId=%s&compress=0&canal=CD';
         parent::__construct(sprintf('%s/%s', $host, sprintf($file, $args[0])), 'product');
     }
 }

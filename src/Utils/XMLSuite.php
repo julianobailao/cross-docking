@@ -24,10 +24,7 @@ class XMLSuite
         $xmlstring = file_get_contents($url);
 
         if (!static::checkXMLStringData($xmlstring)) {
-            $error = libxml_get_errors()[0];
-            $format = 'Error code %d: %s on line %d and column %d (Level %d)';
-
-            throw new InvalidXMLDataException(sprintf($format, $error->code, $error->message, $error->line, $error->column, $error->level));
+            throw new InvalidXMLDataException($xmlstring);
         }
 
         $data = [];
