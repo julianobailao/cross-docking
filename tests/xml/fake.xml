@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <donkey>
+        <type>VALID_XML_DATA</type>
+        <foo>bar</foo>
+        <emptydata></emptydata>
+        <lists>
+            <list>foo</list>
+            <list>bar</list>
+        </lists>
+    </donkey>

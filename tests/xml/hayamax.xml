@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<crossDocking customerId="CUSTOMER_ID" company="Hayamax" database="26/07/2017 17:28:02" numberResults="1">
+    <product>
+        <prod_id>63577</prod_id>
+        <brand><![CDATA[PIX]]></brand>
+        <model><![CDATA[]]></model>
+        <prod_name><![CDATA[CONVERSOR VGA P/HDMI PIX PT IMP]]></prod_name>
+        <seg_name><![CDATA[Informática##Acessórios & Periféricos##Cabos & Adaptadores]]></seg_name>
+        <mtorg><![CDATA[2]]></mtorg>
+        <link><![CDATA[http://www.hayamax.com.br/conversor-vga-p-hdmi-pix-pt-imp]]></link>
+        <NBM><![CDATA[8543.70.39]]></NBM>
+        <saleUnit><![CDATA[PC]]></saleUnit>
+        <saleQuant>1</saleQuant>
+        <weightValue>0.373</weightValue>
+        <weightUnit><![CDATA[KG]]></weightUnit>
+        <shortname><![CDATA[CONVERSOR VGA P/HDMI PIX PT IMP]]></shortname>
+        <EAN>7890000635776</EAN>
+        <width>15.000</width>
+        <height>6.500</height>
+        <depth>12.000</depth>
+        <images>
+            <image><![CDATA[https://db-image-upload.s3.amazonaws.com/produtos/63492/550/1.jpg]]></image>
+            <image><![CDATA[https://db-image-upload.s3.amazonaws.com/produtos/63492/550/2.jpg]]></image>
+        </images>
+        <information>
+            <description><![CDATA[Cód.Fabricante:66500636422]]></description>
+            <characteristics><![CDATA[]]></characteristics>
+            <technical><![CDATA[]]></technical>
+            <included><![CDATA[]]></included>
+            <info><![CDATA[]]></info>
+        </information>
+        <youtube><![CDATA[]]></youtube>
+        <PPB>0</PPB>
+        <warrantyDays>180.0</warrantyDays>
+        <ICS3Perc>0.00</ICS3Perc>
+        <taxsit>00</taxsit>
+        <ICMSRate>4.00 </ICMSRate>
+        <price>188.97</price>
+        <stock>8</stock>
+        <IDENT_SYMBOL>NOVID</IDENT_SYMBOL>
+        <OFERTAS/>
+        <IPI>0.00</IPI>
+        <sourceFat>PR</sourceFat>
+    </product>
+    <product>
+        <prod_id>123456</prod_id>
+        <brand><![CDATA[PIX]]></brand>
+        <model><![CDATA[]]></model>
+        <prod_name><![CDATA[CONVERSOR VGA P/HDMI PIX PT IMP]]></prod_name>
+        <seg_name><![CDATA[Informática##Acessórios & Periféricos##Cabos & Adaptadores]]></seg_name>
+        <mtorg><![CDATA[2]]></mtorg>
+        <link><![CDATA[http://www.hayamax.com.br/conversor-vga-p-hdmi-pix-pt-imp]]></link>
+        <NBM><![CDATA[8543.70.39]]></NBM>
+        <saleUnit><![CDATA[PC]]></saleUnit>
+        <saleQuant>1</saleQuant>
+        <weightValue>0.373</weightValue>
+        <weightUnit><![CDATA[KG]]></weightUnit>
+        <shortname><![CDATA[CONVERSOR VGA P/HDMI PIX PT IMP]]></shortname>
+        <EAN>7890000635776</EAN>
+        <width>15.000</width>
+        <height>6.500</height>
+        <depth>12.000</depth>
+        <images>
+            <image><![CDATA[https://db-image-upload.s3.amazonaws.com/produtos/63492/550/1.jpg]]></image>
+            <image><![CDATA[https://db-image-upload.s3.amazonaws.com/produtos/63492/550/2.jpg]]></image>
+        </images>
+        <information>
+            <description><![CDATA[Cód.Fabricante:66500636422]]></description>
+            <characteristics><![CDATA[]]></characteristics>
+            <technical><![CDATA[]]></technical>
+            <included><![CDATA[]]></included>
+            <info><![CDATA[]]></info>
+        </information>
+        <youtube><![CDATA[]]></youtube>
+        <PPB>0</PPB>
+        <warrantyDays>180.0</warrantyDays>
+        <ICS3Perc>0.00</ICS3Perc>
+        <taxsit>00</taxsit>
+        <ICMSRate>4.00 </ICMSRate>
+        <price>188.97</price>
+        <stock>8</stock>
+        <IDENT_SYMBOL>NOVID</IDENT_SYMBOL>
+        <OFERTAS/>
+        <IPI>0.00</IPI>
+        <sourceFat>PR</sourceFat>
+    </product>
+</crossDocking>
